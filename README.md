@@ -1,4 +1,5 @@
-Este proyecto es un microservicio de autorización que permite crear usuarios y generar tokens JWT (JSON Web Tokens) para la autenticación.
+Proyecto:
+
 
 Puntos Principales de Funcionalidad
 
